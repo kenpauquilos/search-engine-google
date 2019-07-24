@@ -1,10 +1,10 @@
 {
 
-  "name": "serps/search-engine-google",
+  "name": "serp-dd/search-engine-google",
   "description": "Google Rules and client for SERPS",
   "type": "library",
   "keywords": ["SERPS", "Google"],
-  "homepage": "https://github.com/serp-spider/search-engine-google",
+  "homepage": "https://github.com/kenpauquilos/search-engine-google",
   "license": "Fair",
 
   "minimum-stability": "dev",
